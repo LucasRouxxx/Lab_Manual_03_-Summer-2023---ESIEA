@@ -1,6 +1,6 @@
 package com.design.observer;
 
-public class First {
+public class  {
     public static void main(String[] args) {
         Product product = new Product();
 
